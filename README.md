@@ -1,3 +1,5 @@
+Video Demo: https://drive.google.com/drive/folders/1fyWpCRAhdHS5QVeukLGLYVEjK2272KzL?usp=drive_link
+
 # BIT240131_FoodManager
 
 Ứng dụng React Native/Expo cho đề giữa kỳ Quản lý món ăn của **Nguyễn Trần Tuấn Khôi (BIT240131)**. Ứng dụng dùng AsyncStorage để lưu dữ liệu trên thiết bị, NetInfo để theo dõi kết nối và MockAPI REST để đồng bộ. Ngôn ngữ mặc định là English; lựa chọn ngôn ngữ được lưu lại.
