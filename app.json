@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "BIT240131_FoodManager",
+    "slug": "bit240131-foodmanager",
+    "description": "Food management midterm app by Nguyễn Trần Tuấn Khôi (BIT240131).",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#f7f8fc"
+    },
+    "android": {
+      "package": "com.foodmanager.bit240131"
+    }
+  }
+}
